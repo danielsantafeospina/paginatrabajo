@@ -1,0 +1,110 @@
+<html>
+  <head>
+    <title>Maquetacion con CSS y Divs</title>
+    <link rel="stylesheet" href="maquetacion.css" type="text/css"/>
+  </head>
+  <body>
+    <div id ="contenedor">
+      <div id ="cabecera">
+        
+        <div class="search">
+    <input name="searchword" id="mod_search_searchword" maxlength="20" alt="Buscar" class="inputbox" type="text" size="10" value="buscar..."  onblur="if(this.value=='') this.value='buscar...';" onfocus="if(this.value=='buscar...') this.value='';" /> </div>
+
+      </div>
+
+
+      <div id ="menu">
+        
+        <center><span >¿Quienes somos?</span>&nbsp&nbsp&nbsp&nbsp&nbsp
+        <span >Contactenos</span>&nbsp&nbsp&nbsp&nbsp&nbsp
+        <span >Misión</span>&nbsp&nbsp&nbsp&nbsp&nbsp
+        <span >Visión</span>
+        </div></center>
+     </div>
+
+
+    <div id ="imagencoocalpro">
+      
+      <img src="imagen1.jpg">
+    </div>
+
+      <div id ="izquierda">
+
+		<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Cras justo odio</li>
+    <li class="list-group-item">Dapibus ac facilisis in</li>
+    <li class="list-group-item">Vestibulum at eros</li>
+  </ul>
+  <div class="card-body">
+    <a href="#" class="card-link">Card link</a>
+    <a href="#" class="card-link">Another link</a>
+  </div>
+</div>
+      </div>
+
+
+
+      <div id ="centro"></div>
+      <div id ="derecha"></div>
+      <div id ="pie"></div>
+    </div>
+  </body>
+</html>
+
+<style type="text/css">
+
+#contenedor{
+        background-color:white;
+        border:2px solid white;
+}
+#cabecera{
+        background-color:green;
+        height:5%;
+}
+#menu{
+        height:10%;
+        background-color:#C8CACC;
+}
+#imagencoocalpro{
+        height:20%;
+        background-color:white;
+}
+#izquierda{
+        height:100%;
+        background-color:white;
+        float:left;
+        width:30%;
+}
+
+#centro{
+        height:50%;
+        background-color:black;
+        float:left;
+        width:40%;
+
+}
+#derecha{
+        height:50%;
+        background-color:blue;
+        float:right;
+        width:30%;
+}
+#pie{
+        height:20%;
+        background-color:#D3D1C1;
+        clear:both;
+}
+
+
+
+
+
+
+</style>
+</html>

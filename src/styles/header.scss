@@ -1,0 +1,24 @@
+.pricipal-header{
+  background-color: $primary-color;
+  .title{
+    padding: 2rem;
+  }
+  .main-menu{
+    ul{
+      display: flex;
+      list-style: none;
+      background: $secundary-color;
+      width: 100%;
+      li{
+        padding: 1.5rem;
+        background: $secundary-color;
+        color: white;
+        text-transform: uppercase;
+        transition: .5s;
+        &:hover{
+          background-color: $primary-color;
+        }
+      }
+    }
+  }
+}
