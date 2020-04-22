@@ -2,7 +2,7 @@
 
 [![Dependabot badge](https://flat.badgen.net/dependabot/wbkd/webpack-starter?icon=dependabot)](https://dependabot.com/)
 
-En el proyecto realizo la pagina web de coocalpro "www.cooclalpro.com", utilizando los parametros realizados en clase con el profesor juan carlos en el espacio academico de programacion 3.
+En el proyecto realizo la pagina web de coocalpro "www.coocalpro.com", utilizando los parametros realizados en clase con el profesor juan carlos en el espacio academico de programacion 3.
 
 Ingresamos a github, iniciamos seccion y creamos un repositorio.
 
