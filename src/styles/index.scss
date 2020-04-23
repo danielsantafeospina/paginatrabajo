@@ -1,22 +1,2 @@
-$primary-color: #b5e7a0;
-$secundary-color: #86af49;
-
-
-body {
-  font-family: sans-serif;
-  margin: 0px;
-  font-size: 62.5%;
-}
-
-.main-container{
-  .row{
-    .card{
-      margin-bottom: .5rem;
-      margin-right: .5rem;
-    }
-  }
-}
-
-@import 'header.scss';
-@import 'buttons.scss';
 @import "~bootstrap/scss/bootstrap";
+@import "./home.scss";
