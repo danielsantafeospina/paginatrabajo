@@ -24,6 +24,11 @@ A continucacion adjunto imagen del index.html
 
 ![Imagen1](https://user-images.githubusercontent.com/61298481/80054600-4d734a80-84e5-11ea-90b6-43c52c793334.png)
 
+Adjunto imagen de la pagina que trabaje
+
+![Imagen2](https://user-images.githubusercontent.com/61298481/80055049-5ca6c800-84e6-11ea-94b8-0a2675e0d4a8.png)
+
+
 
 
 
