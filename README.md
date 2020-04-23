@@ -20,6 +20,10 @@ vamos a darle (npm update) para cargar los archivos.
 
 para ejecutar la pagina le damos (npm start) y la ubica como localhost en el navegador.
 
+A continucacion adjunto imagen del index.html
+
+
+
 
 
 
