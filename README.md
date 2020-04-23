@@ -22,6 +22,9 @@ para ejecutar la pagina le damos (npm start) y la ubica como localhost en el nav
 
 A continucacion adjunto imagen del index.html
 
+![Imagen1](https://user-images.githubusercontent.com/61298481/80054600-4d734a80-84e5-11ea-90b6-43c52c793334.png)
+
+
 
 
 
