@@ -30,6 +30,11 @@ Agrego imagen del scss
 
 ![Imagen5](https://user-images.githubusercontent.com/61298481/81352104-52123400-908b-11ea-8017-d47e3783e5b8.png)
 
+Agrego imagen del index.js
+
+![Imagen6](https://user-images.githubusercontent.com/61298481/81352207-97cefc80-908b-11ea-8e8b-746197082672.png)
+
+
 
 
 Adjunto imagen de la pagina que trabaje
