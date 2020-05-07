@@ -37,9 +37,12 @@ Agrego imagen del index.js
 
 
 
-Adjunto imagen de la pagina que trabaje
+Adjunto imagen de la pagina
 
-![Imagen2](https://user-images.githubusercontent.com/61298481/80055049-5ca6c800-84e6-11ea-94b8-0a2675e0d4a8.png)
+![Imagen7](https://user-images.githubusercontent.com/61298481/81353078-c51caa00-908d-11ea-8519-fb2ffb33175e.png)
+![Imagen8](https://user-images.githubusercontent.com/61298481/81353088-ca79f480-908d-11ea-8686-40038216cc44.png)
+![Imagen9](https://user-images.githubusercontent.com/61298481/81353091-cc43b800-908d-11ea-808c-8893c091491d.png)
+
 
 
 
