@@ -26,6 +26,11 @@ A continucacion adjunto imagen del index.html
 
 ![Imagen4](https://user-images.githubusercontent.com/61298481/81351941-f3e55100-908a-11ea-951c-7121548b2441.png)
 
+Agrego imagen del scss
+
+![Imagen5](https://user-images.githubusercontent.com/61298481/81352104-52123400-908b-11ea-8017-d47e3783e5b8.png)
+
+
 
 Adjunto imagen de la pagina que trabaje
 
